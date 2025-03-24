@@ -18,3 +18,6 @@ This project is designed for educational and research purposes to demonstrate th
 1. Clone the repository:
    ```bash
    https://github.com/hanif-x/XoX.git-project.git
+2. cd XoX
+3. pip install -r requirements.txt
+4. python xoxn.py
