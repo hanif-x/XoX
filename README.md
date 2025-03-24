@@ -23,13 +23,12 @@ If you have any questions or suggestions, feel free to contact me at [sajim4653@
 - Python 3.x (or your preferred language environment)
 - Network tools (e.g., `scapy`, `socket`, etc.)
 
-### Steps:
-1. Clone the repository:
-   ```bash
-   https://github.com/hanif-x/XoX.git
-### Steps:
-2. cd XoX
-### Steps:
-pip install -r requirements.txt
-### Steps:
-4. python xoxn.py
+### Key Instructions:
+1. **Clone the repository**:  
+   `git clone https://github.com/hanif-x/XoX.git`
+
+2. **Navigate to the project directory**:  
+   `cd XoX`
+
+3. **Run the script**:  
+   `python xoxn.py`
