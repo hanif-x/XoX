@@ -32,3 +32,5 @@ If you have any questions or suggestions, feel free to contact me at [sajim4653@
 
 3. **Run the script**:  
    `python xoxn.py`
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.x-blue)
