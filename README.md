@@ -8,6 +8,15 @@ This project is designed for educational and research purposes to demonstrate th
 - Simulate DDoS attack scenarios in a controlled environment.
 - Learn about techniques used to defend against DDoS attacks.
 
+## Disclaimer
+
+By using or contributing to this project, you acknowledge that you are responsible for ensuring that your use complies with all applicable laws and regulations.
+This code is intended solely for educational purposes. Any use of this code for illegal or malicious purposes is strictly prohibited.
+
+Contact
+
+If you have any questions or suggestions, feel free to contact me at [sajim4653@gmail.com].
+
 ## Installation
 
 ### Requirements:
@@ -17,7 +26,10 @@ This project is designed for educational and research purposes to demonstrate th
 ### Steps:
 1. Clone the repository:
    ```bash
-   https://github.com/hanif-x/XoX.git-project.git
+   https://github.com/hanif-x/XoX.git
+### Steps:
 2. cd XoX
-3. pip install -r requirements.txt
+### Steps:
+pip install -r requirements.txt
+### Steps:
 4. python xoxn.py
